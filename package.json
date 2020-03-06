@@ -1,6 +1,6 @@
 {
   "name": "plutonio",
-  "version": "0.0.1",
+  "version": "0.0.1-beta1",
   "description": "Plutonio Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
